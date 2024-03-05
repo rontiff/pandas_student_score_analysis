@@ -1,0 +1,12 @@
+Summarizes the analysis (5 points)
+
+The analysis primarily focuses on examining the correlation between students' math and reading scores, considering various factors such as school type, individual school performance, allocated budget for each school, and grade of the students. The goal is to identify patterns or correlations within these variables.
+
+
+Draws two correct conclusions or comparisons from the calculations (10 points)
+
+comparisons 1:
+When comparing school types, charter schools exhibit a higher overall passing rate of 90.4%, whereas district schools show a comparatively lower overall passing rate of 53.6%.
+
+comparisons 2:
+When comparing school size, small and medium size of school exhibit a higher overall passing rate at 89.9% and 90.6% respectively.whereas large school size show a comparatively lower overall passing rate of 58.3%.
